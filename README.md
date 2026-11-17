@@ -16,7 +16,6 @@ I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDI
 | --- | --- | --- |
 | [Autonomous Emergency-Response Vehicle](https://github.com/AhmedElanany05/autonomous-emergency-response-vehicle) | Monitors the driver's heart rate, pulls the car over safely in a medical emergency and calls for help with the car's location | ESP32, Jetson Orin Nano, ROS2, YOLO11, TensorRT, Gazebo |
 | [Smart Hydroponic System](https://github.com/AhmedElanany05/smart-hydroponic-system) | Detects strawberry plant diseases with a camera and AI, and controls nutrient dosing automatically | Computer vision, Python, SolidWorks, BLDC pump, solar power |
-| [Sports Ball Image Classification](https://github.com/AhmedElanany05/sports-ball-classification) | Classifies 6 types of sports balls; compares classic machine learning with a deep-learning CNN | Python, PyTorch, SVM, KNN |
 
 ---
 
