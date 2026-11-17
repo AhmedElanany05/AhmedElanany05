@@ -63,3 +63,4 @@ World Champion in Finswimming, competing at the top international level alongsid
 
 [![Email](https://img.shields.io/badge/Email-ahmedelanany34%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedelanany34@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--elanany-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elanany)
+[![Phone](https://img.shields.io/badge/Phone-%2B49%20177%207196886-2E7D32?style=flat)](tel:+491777196886)
