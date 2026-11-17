@@ -2,7 +2,7 @@
 
 **Automotive Mechatronics Engineering student · Embedded Systems · ROS2 · Computer Vision**
 
-I'm a third-year Automotive Mechatronics Engineering student at the **German International University (GIU)**, currently completing my bachelor project at **Technische Hochschule Ulm (THU)** in Germany.
+I'm a Fourth-year Automotive Mechatronics Engineering student at the **German International University (GIU)**, currently completing my bachelor project at **Technische Hochschule Ulm (THU)** in Germany.
 
 I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDIA Jetson, and real-time object detection with YOLO and TensorRT.
 
