@@ -14,8 +14,9 @@ I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDI
 
 | Project | What it does | Main tools |
 | --- | --- | --- |
-| [Autonomous Emergency-Response Vehicle](https://github.com/AhmedElanany05/autonomous-emergency-response-vehicle) | Monitors the driver's heart rate, pulls the car over safely in a medical emergency and calls for help with the car's location | ESP32, Jetson Orin Nano, ROS2, YOLO11, TensorRT, Gazebo |
-| [Smart Hydroponic System](https://github.com/AhmedElanany05/smart-hydroponic-system) | Detects strawberry plant diseases with a camera and AI, and controls nutrient dosing automatically | Computer vision, Python, SolidWorks, BLDC pump, solar power |
+| [Autonomous Emergency-Response Vehicle](https://github.com/AhmedElanany05/autonomous-emergency-response-vehicle) | AI car that takes over when the driver passes out: detects it with an ECG heart-rate sensor, steers itself to the right side of the road, then sends an SMS with the location and calls for help | ESP32, Jetson Orin Nano, ROS2, YOLO11, TensorRT, Gazebo |
+| [Smart Hydroponic System](https://github.com/AhmedElanany05/smart-hydroponic-system) | Solar-powered strawberry tower that detects plant diseases with a camera and AI and controls the pumps and nutrient dosing, on my own controller PCB | ESP32, Jetson Orin Nano, YOLO11, KiCad, SolidWorks, MATLAB/Simulink |
+| [Conveyor Belt Design](https://github.com/AhmedElanany05/conveyor-belt-design) | Belt conveyor for a production line: frame, rollers, pillow-block ball bearings and collection box | SolidWorks |
 
 ---
 
@@ -45,6 +46,7 @@ I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDI
 **CAD, Simulation & Tools**
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D52B1E?style=flat&logo=dassaultsystemes&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=flat&logo=ansys&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
