@@ -19,6 +19,7 @@ I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDI
 | [Gesture-Controlled Wheelchair](https://github.com/AhmedElanany05/gesture-controlled-wheelchair) | Wheelchair that moves by moving your hand: an MPU6050 reads the hand tilt and sends the direction over Bluetooth to the motor controller | Arduino Nano, MPU6050, HC-05 Bluetooth, C++ |
 | [Conveyor Belt Design](https://github.com/AhmedElanany05/conveyor-belt-design) | Belt conveyor for a production line: frame, rollers, pillow-block ball bearings and collection box | SolidWorks |
 | [Elevator Design](https://github.com/AhmedElanany05/elevator-design) | Model elevator for a control project: cabin on guide rods, rope over a pulley, counterweight and glass shaft | SolidWorks |
+| [Stepped Shaft Torsion Analysis](https://github.com/AhmedElanany05/stepped-shaft-torsion-analysis) | Stepped steel shaft under 1000 N·m torque: FEA of shear and von Mises stress at the fillet, checked with hand calculations | SolidWorks Simulation, mechanics of materials |
 | [MAC Flooding Attack](https://github.com/AhmedElanany05/mac-flooding-attack) | Computer networks project: MAC flooding attack on a switch in a lab network, and how port security stops it | Computer networks, network security |
 
 ---
