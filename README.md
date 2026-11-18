@@ -17,6 +17,7 @@ I build embedded and robotic systems for vehicles: ESP32 firmware, ROS2 on NVIDI
 | [Autonomous Emergency-Response Vehicle](https://github.com/AhmedElanany05/autonomous-emergency-response-vehicle) | AI car that takes over when the driver passes out: detects it with an ECG heart-rate sensor, steers itself to the right side of the road, then sends an SMS with the location and calls for help | ESP32, Jetson Orin Nano, ROS2, YOLO11, TensorRT, Gazebo |
 | [Smart Hydroponic System](https://github.com/AhmedElanany05/smart-hydroponic-system) | Solar-powered strawberry tower that detects plant diseases with a camera and AI and controls the pumps and nutrient dosing, on my own controller PCB | ESP32, Jetson Orin Nano, YOLO11, KiCad, SolidWorks, MATLAB/Simulink |
 | [Conveyor Belt Design](https://github.com/AhmedElanany05/conveyor-belt-design) | Belt conveyor for a production line: frame, rollers, pillow-block ball bearings and collection box | SolidWorks |
+| [Elevator Design](https://github.com/AhmedElanany05/elevator-design) | Model elevator for a control project: cabin on guide rods, rope over a pulley, counterweight and glass shaft | SolidWorks |
 
 ---
 
